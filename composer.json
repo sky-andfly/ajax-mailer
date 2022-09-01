@@ -1,0 +1,10 @@
+{
+  "require": {
+    "eoghanobrien/php-simple-mail": "^1.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\classes\\" : "app/classes"
+    }
+  }
+}
